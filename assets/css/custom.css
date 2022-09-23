@@ -1,0 +1,20 @@
+body{
+    height: 100vh;
+} 
+
+.container{
+    height: 100%;
+}
+
+.bg-custom{
+    background-color: #33416a !important;
+    border-color: #33416a !important;
+}
+
+.content-canvas{
+    z-index: -1 !important;
+}
+
+.zed{
+    position: sticky;
+}
