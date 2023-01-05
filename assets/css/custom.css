@@ -31,8 +31,7 @@
 }
 
 body{
-	padding-top: 10vh;
-    height: 100vh;
+    height: 70REM;
     font-family: 'proxima_nova_rgregular', Helvetica, Arial, sans-serif !important;
 } 
 
